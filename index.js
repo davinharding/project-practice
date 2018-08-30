@@ -1,7 +1,7 @@
 class Person {
     constructor (levelSuck, levelChill) {
         this.levelSuck = levelSuck;
-        this.levelChill - levelChill;
+        this.levelChill = levelChill;
 
     }
     displayLevels() {
@@ -12,4 +12,4 @@ class Person {
 
 Pio = new Person(100, 0);
 
-console.log(Pio.displayLevels());
+console.log(Pio);
